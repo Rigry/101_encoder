@@ -1,0 +1,4 @@
+build
+!build/EO101_MO689.bin
+!build/EO101_MO689.hex
+.vscode/ipch

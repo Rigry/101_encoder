@@ -25,7 +25,7 @@ using DO4 = mcu::PA5;
 
 using RX  = mcu::PA3;
 using TX  = mcu::PA2;
-using RTS = mcu::PA1;
+using RTS = mcu::PB1;
 
 int main()
 {
